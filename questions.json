@@ -1,0 +1,452 @@
+{
+  "heading": "Place Value Chart",
+  "topics": [
+    {
+      "heading": "Place Value Chart",
+      "questions": [
+        {
+          "questionNo": 2,
+          "question": "What is the place value of 3 in the number 3,506,829?",
+          "options": [
+            {
+              "text": "Billions",
+              "image": null
+            },
+            {
+              "text": "Millions",
+              "image": null
+            },
+            {
+              "text": "Hundred-thousands",
+              "image": null
+            },
+            {
+              "text": "Ten-thousands",
+              "image": null
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 3,
+          "question": "Write the number<br> <img width='80%' src='./assests/images/question/1.jpg'>",
+          "options": [
+            {
+              "text": "15078.99",
+              "image": null
+            },
+            {
+              "text": "15070.90",
+              "image": null
+            },
+            {
+              "text": "1570.99",
+              "image": null
+            },
+            {
+              "text": "1578.90",
+              "image": null
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 4,
+          "question": "Give the numbers:<br> <img width='80%' src='./assests/images/question/2.jpg'>",
+          "options": [
+            {
+              "text": "3208.50",
+              "image": null
+            },
+            {
+              "text": "3208.53",
+              "image": null
+            },
+            {
+              "text": "2208.53",
+              "image": null
+            },
+            {
+              "text": "2208.50",
+              "image": null
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 5,
+          "question": "What is the place value of the smallest digit in the number 9.631?",
+          "options": [
+            {
+              "text": "Hundredths",
+              "image": null
+            },
+            {
+              "text": "Thousands",
+              "image": null
+            },
+            {
+              "text": "Thousandths",
+              "image": null
+            },
+            {
+              "text": "Hundreds",
+              "image": null
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 6,
+          "question": "What is the place value of 2 in the number 0.00092?",
+          "options": [
+            {
+              "text": "Tenths",
+              "image": null
+            },
+            {
+              "text": "Hundredths",
+              "image": null
+            },
+            {
+              "text": "Hundred-Thousandths",
+              "image": null
+            },
+            {
+              "text": "Ten Thousandths",
+              "image": null
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 7,
+          "question": "Sherry has a winning ticket with the number 1.9048. He shows this number in the place value chart. Which of these is the correct representation of the decimal part?",
+          "options": [
+            {
+              "text": "",
+              "image": "./assests/images/option/5.jpg"
+            },
+            {
+              "text": "",
+              "image": "./assests/images/option/6.jpg"
+            },
+            {
+              "text": "",
+              "image": "./assests/images/option/7.jpg"
+            },
+            {
+              "text": "",
+              "image": "./assests/images/option/8.jpg"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 8,
+          "question": "A recipe of Cake requires 0.05g of sugar. What is the value of the digit 5?",
+          "options": [
+            {
+              "text": "",
+              "image": "./assests/images/option/9.jpg"
+            },
+            {
+              "text": "",
+              "image": "./assests/images/option/10.jpg"
+            },
+            {
+              "text": "",
+              "image": "./assests/images/option/11.jpg"
+            },
+            {
+              "text": "",
+              "image": "./assests/images/option/12.jpg"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "During his journey through Numericton, Alex encounters the number<img width='20%' src='./assests/images/question/3.jpg'>. What is the place value of the digit 4 in the number?",
+          "options": [
+            {
+              "text": "Hundredths",
+              "image": null
+            },
+            {
+              "text": "Thousands",
+              "image": null
+            },
+            {
+              "text": "Thousandths",
+              "image": null
+            },
+            {
+              "text": "Hundreds",
+              "image": null
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "In the number 905,876.543 which digit holds the highest and lowest place value?",
+          "options": [
+            {
+              "text": "Highest: 9, Lowest:3",
+              "image": null
+            },
+            {
+              "text": "Highest: 9, Lowest:6",
+              "image": null
+            },
+            {
+              "text": "Highest: 5, Lowest:3",
+              "image": null
+            },
+            {
+              "text": "Highest: 5, Lowest:6",
+              "image": null
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 11,
+          "question": "Write the given number 134.1891 in the expanded form",
+          "options": [
+            {
+              "text": "",
+              "image": "./assests/images/option/13.jpg"
+            },
+            {
+              "text": "",
+              "image": "./assests/images/option/14.jpg"
+            },
+            {
+              "text": "",
+              "image": "./assests/images/option/15.jpg"
+            },
+            {
+              "text": "",
+              "image": "./assests/images/option/16.jpg"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 12,
+          "question": "What is the correct way to write the number 4,789,012 in words?",
+          "options": [
+            {
+              "text": "Four million, seven hundred eighty-nine thousand and twelve",
+              "image": null
+            },
+            {
+              "text": "Four million, seventy-eighty thousand twelve",
+              "image": null
+            },
+            {
+              "text": "Forty seven thousands eighty ninety-hundred and twelve",
+              "image": null
+            },
+            {
+              "text": "Four million, seven hundred eighty-nine thousand point twelve",
+              "image": null
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 13,
+          "question": "Place commas in the number 787654321.123?",
+          "options": [
+            {
+              "text": "787,654,321.123",
+              "image": null
+            },
+            {
+              "text": "787,65,4321.123",
+              "image": null
+            },
+            {
+              "text": "78,765,4321.123",
+              "image": null
+            },
+            {
+              "text": "787,654,3,21.123",
+              "image": null
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 14,
+          "question": "Rewrite the number in numeral form with commas.<br> \"Nine hundred eighty-two thousand two hundred thirty-four\"",
+          "options": [
+            {
+              "text": "982,234",
+              "image": null
+            },
+            {
+              "text": "982,23",
+              "image": null
+            },
+            {
+              "text": "982,230",
+              "image": null
+            },
+            {
+              "text": "9882,34",
+              "image": null
+            }
+          ],
+          "answer": 0
+        },
+          {
+              "questionNo": 15,
+              "question": "What is the correct number name for 5,234,567?",
+              "options": [
+                  {
+                      "text": "Five million, two hundred thirty-four thousand, five hundred sixty-seven"
+                  },
+                  {
+                      "text": "Fifty-two million, three hundred forty-five thousand, sixty-seven"
+                  },
+                  {
+                      "text": "Five thousand, two hundred thirty-four thousand, five hundred sixty-seven"
+                  },
+                  {
+                      "text": "Five million, two hundred thirty-four thousand, fifty-six, seven"
+                  }
+              ],
+              "answer": 0
+          },
+          {
+              "questionNo": 16,
+              "question": "Re-write the number: Six hundred eighty-nine thousand, twelve",
+              "options": [
+                  {
+                      "text": "689,012"
+                  },
+                  {
+                      "text": "698,012"
+                  },
+                  {
+                      "text": "689,120"
+                  },
+                  {
+                      "text": "680,012"
+                  }
+              ],
+              "answer": 0
+          },
+          {
+              "questionNo": 17,
+              "question": "Write the number name for 3,543,210.25",
+              "options": [
+                  {
+                      "text": "Three million, five hundred forty-three thousand, two hundred ten and twenty-five hundredths"
+                  },
+                  {
+                      "text": "Three million, five hundred forty-three thousand, two hundred ten and two five"
+                  },
+                  {
+                      "text": "Three million, five hundred forty-three thousand, two hundred and ten point twenty-five"
+                  },
+                  {
+                      "text": "Three million, five hundred forty-three hundred and ten point twenty-five"
+                  }
+              ],
+              "answer": 0
+          },
+          {
+              "questionNo": 18,
+              "question": "Fill in the missing:<br><img width='90%' src='./assests/images/question/4.jpg'>",
+              "options": [
+                {
+                  "text": "",
+                  "image": "./assests/images/option/17.jpg"
+                },
+                {
+                  "text": "",
+                  "image": "./assests/images/option/18.jpg"
+                },
+                {
+                  "text": "",
+                  "image": "./assests/images/option/19.jpg"
+                },
+                {
+                  "text": "",
+                  "image": "./assests/images/option/20.jpg"
+                }
+              ],
+              "answer": 2
+          },
+          {
+              "questionNo": 19,
+              "question": "What is the place value of the lowest prime digit given in the number 987654.98762?",
+              "options": [
+                  {
+                      "text": "0.2"
+                  },
+                  {
+                      "text": "0.00002"
+                  },
+                  {
+                      "text": "0.002"
+                  },
+                  {
+                      "text": "0.0002"
+                  }
+              ],
+              "answer": 1
+          },
+          {
+              "questionNo": 20,
+              "question": "How do we write 9,000,000 in words?",
+              "options": [
+                  {
+                      "text": "Nine million"
+                  },
+                  {
+                      "text": "Ninety thousand"
+                  },
+                  {
+                      "text": "Nine hundred thousand"
+                  },
+                  {
+                      "text": "Nine hundred million"
+                  }
+              ],
+              "answer": 0
+          },
+          {
+            "questionNo": 1,
+            "question": "Mary wants to put digits 9,5,1,3,5,7 and 8 in the Place value chart with the highest digit at the lowest place and lowest digit at the highest place. Both these digits have the same number next to them. Also, 7 and 8 do not stay together. Help her place the digits.",
+            "options": [
+              {
+                "text": "",
+                "image": "./assests/images/option/1.jpg"
+              },
+              {
+                "text": "",
+                "image": "./assests/images/option/2.jpg"
+              },
+              {
+                "text": "",
+                "image": "./assests/images/option/3.jpg"
+              },
+              {
+                "text": "",
+                "image": "./assests/images/option/4.jpg"
+              }
+            ],
+            "answer": 0
+          }
+      
+      
+      ]
+    }
+  ]
+}
